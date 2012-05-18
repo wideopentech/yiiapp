@@ -1,0 +1,6 @@
+[submodule "yii"]
+	path = yii
+	url = git://github.com/wideopentech/yii.git
+[submodule "protected/extensions/activedocument"]
+	path = protected/extensions/activedocument
+	url = git://github.com/intel352/ActiveDocument.git
