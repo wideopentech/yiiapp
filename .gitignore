@@ -1,3 +1,9 @@
+#############
+## Yii
+#############
+
+assets/
+protected/runtime/
 
 #################
 ## Eclipse
@@ -11,6 +17,7 @@ tmp/**
 tmp/**/*
 *.tmp
 *.bak
+*.orig
 *.swp
 *~.nib
 local.properties
